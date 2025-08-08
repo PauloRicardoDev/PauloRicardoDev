@@ -4,7 +4,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Paulo Ricardo Chagas, tenho 24 anos e sou natural de Belém do Pará. Concluí o ensino superior pela UFRA (Universidade Fereral Rural da Amazônia), no curso de LICENCIATURA EM COMPUTAÇÂO. Sou um profissional que valoriza a importância de desenvolver soft skills e hard skills. Acredito firmemente que todo projeto de software carrega uma parcela da história de quem o programa. FIQUE livre PARA EXPLORAR LIVRIMENTE ESTE PERFIL!
+Me chamo Paulo Ricardo Chagas, tenho 24 anos e sou natural de Belém do Pará. Concluí o ensino superior pela UFRA (Universidade Fereral Rural da Amazônia), no curso de <LICENCIATURA EM COMPUTAÇÃO/>. Sou um profissional que valoriza a importância de desenvolver soft skills e hard skills. Acredito firmemente que todo projeto de software carrega uma parcela da história de quem o programa. FIQUE livre PARA EXPLORAR LIVRIMENTE ESTE PERFIL!
 
 <p align="left">
     <a href="https://github.com/PauloRicardoDev/PauloRicardoDev?tab=repositories&sort=stargazers">
